@@ -34,5 +34,10 @@ Chinese Local time.
 4. Hit Go!
 
 The output will give you relative times across the world to help 
-coordinate your meeting!s
+coordinate your meetings!
+
+*** VIDEO DEMO ***
+
+
+https://github.com/jake-stan92/timezone/assets/106221183/0693c951-e967-4115-9277-e8358422e5bf
 
